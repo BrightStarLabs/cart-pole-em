@@ -37,7 +37,16 @@ $$
 y=D\!\big(\tilde{S}_T\big).
 $$
 
+## Results from training EM in cart pole environment
+### Video
+<p align="center">
+  <img src="assets/cartpole.gif" alt="CartPole rollout" width="480">
+</p>
 
+### Program rollout
+<p align="center">
+  <img src="assets/ca_raster.png" alt="CartPole rollout" width="100">
+</p>
 
 ## Continous Emergent Model (CEM)
 
