@@ -1,0 +1,51 @@
+[
+  {
+    "generation": 0,
+    "mean_fitness": 14.26,
+    "std_fitness": 24.136122306617523,
+    "max_fitness": 163.0,
+    "min_fitness": 8.0
+  },
+  {
+    "generation": 1,
+    "mean_fitness": 48.8,
+    "std_fitness": 142.45771302390054,
+    "max_fitness": 1000.0,
+    "min_fitness": 10.0
+  },
+  {
+    "generation": 2,
+    "mean_fitness": 184.74,
+    "std_fitness": 306.31107129844327,
+    "max_fitness": 1000.0,
+    "min_fitness": 11.0
+  },
+  {
+    "generation": 3,
+    "mean_fitness": 367.0,
+    "std_fitness": 385.3914892677315,
+    "max_fitness": 1000.0,
+    "min_fitness": 24.0
+  },
+  {
+    "generation": 4,
+    "mean_fitness": 639.92,
+    "std_fitness": 368.37072847879756,
+    "max_fitness": 1000.0,
+    "min_fitness": 147.0
+  },
+  {
+    "generation": 5,
+    "mean_fitness": 835.18,
+    "std_fitness": 246.18819549279775,
+    "max_fitness": 1000.0,
+    "min_fitness": 261.0
+  },
+  {
+    "generation": 6,
+    "mean_fitness": 1000.0,
+    "std_fitness": 0.0,
+    "max_fitness": 1000.0,
+    "min_fitness": 1000.0
+  }
+]

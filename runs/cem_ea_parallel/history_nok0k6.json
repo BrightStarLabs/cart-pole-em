@@ -1,0 +1,37 @@
+[
+  {
+    "generation": 0,
+    "mean_fitness": 46.88,
+    "std_fitness": 158.71025675740051,
+    "max_fitness": 1000.0,
+    "min_fitness": 8.0
+  },
+  {
+    "generation": 1,
+    "mean_fitness": 143.0,
+    "std_fitness": 306.09926494521346,
+    "max_fitness": 1000.0,
+    "min_fitness": 10.0
+  },
+  {
+    "generation": 2,
+    "mean_fitness": 414.22,
+    "std_fitness": 441.39561801177865,
+    "max_fitness": 1000.0,
+    "min_fitness": 11.0
+  },
+  {
+    "generation": 3,
+    "mean_fitness": 899.8,
+    "std_fitness": 222.42796586760397,
+    "max_fitness": 1000.0,
+    "min_fitness": 217.0
+  },
+  {
+    "generation": 4,
+    "mean_fitness": 1000.0,
+    "std_fitness": 0.0,
+    "max_fitness": 1000.0,
+    "min_fitness": 1000.0
+  }
+]
