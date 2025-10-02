@@ -16,7 +16,7 @@ def rhs(a, K):
     """Compute da/dt for EM with K=(k1..k5). a shape (N,)."""
     k1, k2, k3, k4, k5 = K
     L, C, R = neighbors_zero_pad(a)
-    return k1*L + k2*C + k3*R + k4*(C*R) + k5*(C*L)
+    return k1*L + k2*C + k3*R #-0.1* C**3#+ k4*(C*R) + k5*(C*L)
 
 def rk4_step(a, dt, K):
     """One RK4 step for a' = f(a)."""
